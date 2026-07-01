@@ -1,0 +1,1 @@
+I, callebtc, creator of goatedchat for android, owner of the copyright claims, and owner of the official goatedchat android repository (https://github.com/chotathor/goatedchat), hereby authorize Verse Communication PBC to publish goatedchat (com.goatedchat.doid) on the Google Play Store.
